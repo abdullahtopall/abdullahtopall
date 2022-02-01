@@ -13,6 +13,7 @@
   </a> 
   
   [![Linkedin Badge](https://img.shields.io/badge/-abdullahtopal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdullahtopal/)](https://www.linkedin.com/in/abdullahtopal/)
+  <a href="https://instagram.com/abdullahttopal" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="abdullahttopal" height="30" width="30" /></a>
 
 
 <!--
